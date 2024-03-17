@@ -1,0 +1,21 @@
+.div1{
+    background-color:#062863;
+    width: 100%;
+    height: 120vh;
+}
+img{
+    margin-left: 40%;
+    margin-top: 60px;
+}
+.log{
+    color:#083e9e;
+}
+input{
+    background-color: #edf2f7;
+}
+.login{
+    color: #576172;
+}
+label{
+    color:#062863;
+}
